@@ -1,0 +1,12 @@
+com.shazlycode.web_test_new.app-jetified-window-java-1.0.0-beta04-0 C:\Users\drahm\.gradle\caches\transforms-3\19ff66f031cb422764b0da25d9d6bdb4\transformed\jetified-window-java-1.0.0-beta04\res
+com.shazlycode.web_test_new.app-jetified-annotation-experimental-1.1.0-1 C:\Users\drahm\.gradle\caches\transforms-3\55b58230e55ac19e11de59e32a6117b3\transformed\jetified-annotation-experimental-1.1.0\res
+com.shazlycode.web_test_new.app-core-1.6.0-2 C:\Users\drahm\.gradle\caches\transforms-3\bbbbd632898af927049fa4f571ee9e7e\transformed\core-1.6.0\res
+com.shazlycode.web_test_new.app-jetified-window-1.0.0-beta04-3 C:\Users\drahm\.gradle\caches\transforms-3\d97cf3ffa6f05f8e8de8b41da1cca67f\transformed\jetified-window-1.0.0-beta04\res
+com.shazlycode.web_test_new.app-debug-4 E:\coding\Flutter Projects\web_test_new\android\app\src\debug\res
+com.shazlycode.web_test_new.app-main-5 E:\coding\Flutter Projects\web_test_new\android\app\src\main\res
+com.shazlycode.web_test_new.app-pngs-6 E:\coding\Flutter Projects\web_test_new\build\app\generated\res\pngs\debug
+com.shazlycode.web_test_new.app-resValues-7 E:\coding\Flutter Projects\web_test_new\build\app\generated\res\resValues\debug
+com.shazlycode.web_test_new.app-rs-8 E:\coding\Flutter Projects\web_test_new\build\app\generated\res\rs\debug
+com.shazlycode.web_test_new.app-mergeDebugResources-9 E:\coding\Flutter Projects\web_test_new\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.shazlycode.web_test_new.app-mergeDebugResources-10 E:\coding\Flutter Projects\web_test_new\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.shazlycode.web_test_new.app-merged_res-11 E:\coding\Flutter Projects\web_test_new\build\app\intermediates\merged_res\debug
